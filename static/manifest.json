@@ -1,6 +1,6 @@
 {
-  "name": "chatclient",
-  "short_name": "chatclient",
+  "name": "vuechat",
+  "short_name": "vuechat",
   "icons": [
     {
       "src": "/static/img/icons/tree.jpeg",

@@ -1,5 +1,5 @@
 {
-  "name": "chatclient",
+  "name": "vuechat",
   "version": "1.0.0",
   "description": "Vue/Firebase chat practice",
   "author": "Hadeon",
@@ -13,6 +13,7 @@
     "lint": "eslint --ext .js,.vue src test/unit/specs"
   },
   "dependencies": {
+    "material-design-lite": "^1.3.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
