@@ -1,7 +1,7 @@
 import firebase from 'firebase'
-import {config} from './config'
+const config = require('./config.json')
 
-firebase.initializeApp(config)
+firebase.initializeApp(config.firebase)
 
 export default {
   database: firebase.database()
